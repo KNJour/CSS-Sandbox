@@ -1,0 +1,1 @@
+window.alert("This is an alert, click a button please!");
